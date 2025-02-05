@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1685B499-7DBD-4B8F-8C3E-D495D2351E8E}|\u043F\u04404 \u0437\u0434 8\\\u043F\u04404 \u0437\u0434 8.csproj|c:\\users\\hp\\desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1685B499-7DBD-4B8F-8C3E-D495D2351E8E}|\u043F\u04404 \u0437\u0434 8\\\u043F\u04404 \u0437\u0434 8.csproj|solutionrelative:\u043F\u04404 \u0437\u0434 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|apphost||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B665DCC-2E4C-4EEF-889E-4967312B1D51}|\u041F\u04205 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8\\\u041F\u04205 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8.csproj|c:\\users\\hp\\desktop\\programms\\\u043F\u04404-5\\\u043F\u04405 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B665DCC-2E4C-4EEF-889E-4967312B1D51}|\u041F\u04205 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8\\\u041F\u04205 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8.csproj|solutionrelative:\u043F\u04405 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDBA10F-C6A9-4E51-96EF-093CB18E8D45}|\u041F\u04205  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8\\\u041F\u04205  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8.csproj|c:\\users\\hp\\desktop\\programms\\\u043F\u04404-5\\\u043F\u04405  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDBA10F-C6A9-4E51-96EF-093CB18E8D45}|\u041F\u04205  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8\\\u041F\u04205  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8.csproj|solutionrelative:\u043F\u04405  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B7E593-F25E-4276-BE8A-C3DF3A1DC417}|\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj|c:\\users\\hp\\desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B7E593-F25E-4276-BE8A-C3DF3A1DC417}|\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj|solutionrelative:\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B7E593-F25E-4276-BE8A-C3DF3A1DC417}|\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj|c:\\users\\hp\\desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12B7E593-F25E-4276-BE8A-C3DF3A1DC417}|\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj|solutionrelative:\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212FA64C-FCE4-43DE-BB0D-FA1B80CD54AE}|\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj|c:\\users\\hp\\desktop\\programms\\\u043F\u04404-5\\\u043F\u04405 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212FA64C-FCE4-43DE-BB0D-FA1B80CD54AE}|\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj|solutionrelative:\u043F\u04405 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212FA64C-FCE4-43DE-BB0D-FA1B80CD54AE}|\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj|c:\\users\\hp\\desktop\\programms\\\u043F\u04404-5\\\u043F\u04405 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u043F\u04405 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{212FA64C-FCE4-43DE-BB0D-FA1B80CD54AE}|\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj|solutionrelative:\u043F\u04405 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u043F\u04405 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404\\\u043F\u04404\\\u043F\u04404 \u0437\u0434 8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404\\\u043F\u04404\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ABE08C-95DC-45AD-B0DF-33B0ACF34171}|\u043F\u04404 \u0437\u0434 8\\obj\\Debug\\net8.0\\apphost.exe|C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 8\\obj\\Debug\\net8.0\\apphost.exe||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|919d7fa1-9ce2-4d9f-896d-e7b38d47e562",
+      "RelativeMoniker": "D:0:0:{D4ABE08C-95DC-45AD-B0DF-33B0ACF34171}|\u043F\u04404 \u0437\u0434 8\\obj\\Debug\\net8.0\\apphost.exe|solutionrelative:\u043F\u04404 \u0437\u0434 8\\obj\\Debug\\net8.0\\apphost.exe||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|919d7fa1-9ce2-4d9f-896d-e7b38d47e562"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 8\\Program.cs",
+              "RelativeDocumentMoniker": "\u043F\u04404 \u0437\u0434 8\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 8\\Program.cs",
+              "RelativeToolTip": "\u043F\u04404 \u0437\u0434 8\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:24:58.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "apphost",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 8\\obj\\Debug\\net8.0\\apphost.exe",
+              "RelativeDocumentMoniker": "\u043F\u04404 \u0437\u0434 8\\obj\\Debug\\net8.0\\apphost.exe",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 8\\obj\\Debug\\net8.0\\apphost.exe",
+              "RelativeToolTip": "\u043F\u04404 \u0437\u0434 8\\obj\\Debug\\net8.0\\apphost.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-05T12:23:46.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj",
+              "RelativeDocumentMoniker": "\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj",
+              "RelativeToolTip": "\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T09:31:50.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\Program.cs",
+              "RelativeDocumentMoniker": "\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\Program.cs",
+              "RelativeToolTip": "\u041F\u04205 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u044D\u043B\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u043C\u0430\u0441\u0441\u0438\u0432\u043E\u0432 \u0437\u0434 16\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:27:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u041F\u04205  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8\\Program.cs",
+              "RelativeDocumentMoniker": "\u041F\u04205  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u041F\u04205  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8\\Program.cs",
+              "RelativeToolTip": "\u041F\u04205  \u043C\u043D\u043E\u0433\u043E\u043C\u0435\u0440\u043D\u044B\u0435 \u043C\u0430\u0441\u0441\u0438\u0432\u044B \u0437\u0434 8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:24:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u041F\u04205 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8\\Program.cs",
+              "RelativeDocumentMoniker": "\u041F\u04205 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u041F\u04205 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8\\Program.cs",
+              "RelativeToolTip": "\u041F\u04205 \u043E\u0434\u043D \u043C\u0430\u0441\u0441\u0438\u0432 \u0437\u0434 8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:31:28.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj",
+              "RelativeDocumentMoniker": "\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj",
+              "RelativeToolTip": "\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T14:46:47.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\Program.cs",
+              "RelativeDocumentMoniker": "\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404-5\\\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\Program.cs",
+              "RelativeToolTip": "\u043F\u04404 \u0437\u0434 1 \u0441 \u0442\u0435\u0439\u043B\u043E\u0440\u043E\u043C\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:42:33.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u043F\u04404 \u0437\u0434 8.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404\\\u043F\u04404\\\u043F\u04404 \u0437\u0434 8.csproj",
+              "RelativeDocumentMoniker": "..\\\u043F\u04404\\\u043F\u04404\\\u043F\u04404 \u0437\u0434 8.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404\\\u043F\u04404\\\u043F\u04404 \u0437\u0434 8.csproj",
+              "RelativeToolTip": "..\\\u043F\u04404\\\u043F\u04404\\\u043F\u04404 \u0437\u0434 8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T12:40:44.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404\\\u043F\u04404\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u043F\u04404\\\u043F\u04404\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\programms\\\u043F\u04404\\\u043F\u04404\\Program.cs",
+              "RelativeToolTip": "..\\\u043F\u04404\\\u043F\u04404\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:34:34.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
